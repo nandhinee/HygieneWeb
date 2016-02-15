@@ -31,5 +31,8 @@ Note: When running the project for the second time please execute the following 
 sudo ./bin/hadoop fs -rmr zip/temp.txt
 sudo ./bin/hadoop fs -rmr out*
 sudo ./bin/hadoop fs -rmr final.txt
+
+NOTE:
+The sample input file contains only a subset of the original data.
  
 
